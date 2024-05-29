@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @oscarcoleman
-- 👀 I’m interested in coding automation and electronics, web development and blogging, physics and chemistry, and other sciences as well as reading and involving myself in science fiction.
-- 🌱 I’m currently learning coding languages such as HTML, CSS & JS as well as Arduino and GO.
-- 💞️ I’m looking to collaborate on web development projects and possibly others interested in futurism and science/tech philosphy in the future for my blog.
+- Software developer: JavaScript, HTML, CSS, C/C#
+- Futurism writer, founder of Nexos: https://technofalcon73.github.io/Nexos/ 
 - 📫 How to reach me: oscarcoleman999@gmail.com
 - 😄 Pronouns: He (not Helium though).
